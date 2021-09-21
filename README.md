@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bahar Zerenturk!</h1>
-<h3 align="center">I am a Data Science Researcher </h3>
+<h3 align="center">I am a Data Science Researcher. </h3>
 
-- 🔭 I’m currently working as a **Data Analyst**
+- 🔭 I’m currently working as a **Data Analyst**.
 
-- 💬 Ask me about **Python, Java, PowerBI**
+- 💬 Ask me about **Python, Java, PowerBI**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
