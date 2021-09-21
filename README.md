@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bahar Zerenturk</h1>
+<h1 align="center">Hi 👋, I'm Bahar Zerenturk!</h1>
 <h3 align="center">I am a Data Science Researcher </h3>
 
 - 🔭 I’m currently working as a **Data Analyst**
